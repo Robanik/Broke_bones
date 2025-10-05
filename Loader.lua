@@ -4,7 +4,7 @@ local TweenService = game:GetService("TweenService")
 local player = Players.LocalPlayer
 
 local DISCORD_LINK = "https://discord.gg/g4FG4fsY9R"
-local CORRECT_KEY = "STL22PR132"
+local CORRECT_KEY = "5132BREAK"
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "KeySystemGUI"
